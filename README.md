@@ -14,7 +14,7 @@ You can use it whatever and wherever you want.
 Just clone the repo and 
 
 ```bash
-cd hola-mundo
+cd helloworld_ionic/hello-world
 ionic serve
 ```
 
