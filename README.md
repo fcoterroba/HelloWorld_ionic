@@ -23,3 +23,7 @@ If your browser doesn't open, write manually:
 *localhost:8100*
 
 The port could change so check the log
+
+---
+
+You can read how I did this project on my [website](https://fcoterroba.com/ionic-que-es-donde-viene-primer-contacto) (Spanish)
