@@ -4,9 +4,9 @@ This is a sample project with top-bar made in IONIC which can be used in your ow
 ![](https://badgen.net/badge/npm/v%206.14.18/blue?icon=npm)
 
 ## Preview
-TODO: ADD IMG AND FOLDER
+![](https://github.com/fcoterroba/HelloWorld_ionic/blob/main/previews/preview_web.jpg)
 
-You can see more previews on folder
+You can see more previews on [folder](https://github.com/fcoterroba/HelloWorld_ionic/tree/main/previews)
 
 ## Use
 You can use it whatever and wherever you want.
