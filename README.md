@@ -1,5 +1,5 @@
 # HelloWorld_ionic
-This is a sample project with top-bar made in IONIC which can be used in your own projects or learn the ionic's starters.
+This is a sample project with top-bar made in IONIC with React framework which can be used in your own projects or learn the ionic's starters.
 
 ![](https://badgen.net/badge/npm/v%206.14.18/blue?icon=npm)
 
